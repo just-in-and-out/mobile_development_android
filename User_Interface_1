@@ -1,0 +1,5 @@
+<TextView
+    android:text="hallo jumbo!"
+    android:background="@android:color/darker_gray"
+    android:layout_width="85dp"
+    android:layout_height="25dp" />
